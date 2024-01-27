@@ -1,0 +1,14 @@
+/*<style>原本裡面的東西移出
+/*標體名稱 選擇器*/
+body{background-color:#cccccc}
+/*id 選擇器*/
+#title{text-decoration:line-through}
+/*class 選擇器*/
+.標題{
+    margin-bottom:10px;
+    font-size:24px;
+    font-weight:bold
+}
+.content{width:25%;padding:10px;border:1px dashed blue;color:olive}
+.keyword{color:rgb(71, 106, 158)}
+/*</style>

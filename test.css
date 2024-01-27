@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh; /* 設定為視窗的高度 */
+}
+
+.horizontal-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.vertical-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.item {
+    margin: 10px; /* 上下左右邊距為10px */
+}
